@@ -1,9 +1,4 @@
-Based on DevConnector 2.0
-Just modify config/default.json & config/production.json with your mongo credentials and github access token.
 
-> Social network for developers
-
-This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
 
 ## Updates since course published
 
